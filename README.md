@@ -1,4 +1,5 @@
-# vue_scaffolding
+# vue_ts_scaffolding
+vue+typescript 脚手架搭建
 
 ## Project setup
 ```
