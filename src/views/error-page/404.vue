@@ -1,3 +1,10 @@
+<!--
+ * @Author: shichuyu
+ * @Date: 2020-01-16 16:42:19
+ * @LastEditors  : shichuyu
+ * @LastEditTime : 2020-01-17 09:37:51
+ * @Description: 
+ -->
 <!--  -->
 <template>
   <div class=''>404</div>
@@ -10,9 +17,9 @@
 export default {
   // import引入的组件需要注入到对象中才能使用
   components: {},
-  data () {
+  data() {
   // 这里存放数据
-    return {}
+    return {};
   },
 };
 </script>
